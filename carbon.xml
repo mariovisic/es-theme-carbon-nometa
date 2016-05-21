@@ -58,8 +58,8 @@ based on:		"simple" by nils bonenberger
 		</datetime>
 
 		<textlist name="gamelist">
-			<selectorColor>1c1c1c</selectorColor>
-			<selectedColor>8b0000</selectedColor>
+			<selectorColor>ffffff</selectorColor>
+			<selectedColor>000000</selectedColor>
 			<primaryColor>969696</primaryColor>
 			<secondaryColor>7a6161</secondaryColor>
 			<fontPath>./art/Cabin-Bold.ttf</fontPath>
@@ -77,7 +77,7 @@ based on:		"simple" by nils bonenberger
 
 	<view name="detailed">
 		<textlist name="gamelist">
-			<fontSize>0.03</fontSize>
+			<fontSize>0.13</fontSize>
 		</textlist>
 	</view>
 	
